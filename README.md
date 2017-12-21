@@ -30,3 +30,17 @@ python manage.py runserver
 ```
 
 > Enjoy the Django2.0
+
+
+### About me
+
+知乎：[临书](https://www.zhihu.com/people/tmpbook/activities)
+
+公众号（Scan it by WeChat）：
+
+<div align=center>
+    <img width="150" height="150" src="https://github.com/tmpbook/Django-with-ElasticSearch/blob/master/qrcode.jpg"/>
+</div>
+
+<div align=right>谢谢阅读</div>
+<div align=right>Thanks for watching</div>
