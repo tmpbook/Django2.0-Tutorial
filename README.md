@@ -36,10 +36,10 @@ python manage.py runserver
 
 知乎：[临书](https://www.zhihu.com/people/tmpbook/activities)
 
-公众号（Scan it by WeChat）：
+微信（WeChat）：
 
 <div align=center>
-    <img width="150" height="150" src="https://github.com/tmpbook/Django-with-ElasticSearch/blob/master/qrcode.jpg"/>
+    <img width="150" height="150" src="https://github.com/tmpbook/Django-with-ElasticSearch/blob/master/Wechat.jpeg"/>
 </div>
 
 <div align=right>谢谢阅读</div>
